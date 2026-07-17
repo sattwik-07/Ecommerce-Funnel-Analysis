@@ -1,4 +1,4 @@
-#E-commerce Conversion Funnel Analysis
+# E-commerce Conversion Funnel Analysis
 
 A full end-to-end data analysis project that tracks a synthetic e-commerce
 store's user journey — **Visit → Product View → Add to Cart → Checkout →
