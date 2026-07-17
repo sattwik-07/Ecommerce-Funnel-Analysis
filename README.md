@@ -1,4 +1,4 @@
-# 🛒 E-commerce Conversion Funnel Analysis
+#E-commerce Conversion Funnel Analysis
 
 A full end-to-end data analysis project that tracks a synthetic e-commerce
 store's user journey — **Visit → Product View → Add to Cart → Checkout →
@@ -6,7 +6,7 @@ Purchase** — to find where customers drop off, quantify the impact, and
 recommend fixes. Built with a Python analysis pipeline and a self-contained,
 interactive live dashboard.
 
-**[🔴 Live Dashboard Demo](#-interactive-dashboard)** · [Key Findings](#-key-findings) · [Recommendations](#-recommendations) · [How to Run](#️-how-to-run)
+**[Live Dashboard Demo](#-interactive-dashboard)** · [Key Findings](#-key-findings) · [Recommendations](#-recommendations) · [How to Run](#️-how-to-run)
 
 ---
 
