@@ -54,11 +54,6 @@ in a browser. No server, no install, no internet connection needed.**
 ![dashboard preview](outputs/funnel_chart.png)
 
 ---
-
-## 📁 Project Structure
-
-```
-
 ---
 
 ## 🧭 Methodology
@@ -172,3 +167,12 @@ your own export using the same schema, then re-run
 
 This project is open source and available for anyone to learn from, reuse,
 or build on.
+
+---
+
+## Author
+
+Built by **Sattwik**.
+
+- GitHub: https://github.com/sattwik-07
+- LinkedIn: https://www.linkedin.com/in/sattwik-sahu
